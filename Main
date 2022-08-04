@@ -1,3 +1,4 @@
 if game.PlaceId == 6284583030 then
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/Yagotro/script21/main/DupeScript"))()
-  
+    loadstring(game:HttpGet("https://github.com/Yagotro/script21/blob/main/Dupe%20Script%20By%20ultronlu%20atomlu%20daxi.lua"))()
+    
+end
